@@ -1,0 +1,39 @@
+<misterromdescription>
+	<name>Solomon no Kagi (Japan)</name>
+	<mameversion>0216</mameversion>
+	<setname>solomonj</setname>
+	<mratimestamp>201911270000</mratimestamp>
+	<year>1986</year>
+	<manufacturer>Tecmo</manufacturer>
+	<category>Adventure</category>
+	<category>Platform</category>
+	<rbf>solomonskey</rbf>
+	<rom index="0" zip="solomonj.zip" md5="2e540133603058d3949c9a3403e942c6" type="nonmerged">
+		<part name="slmn_02.bin"/>
+		<part name="slmn_03.bin"/>
+		<part name="slmn_04.bin"/>
+		<part name="slmn_05.bin"/>
+		<part name="slmn_12.bin"/>
+		<part name="slmn_11.bin"/>
+		<part name="slmn_10.bin"/>
+		<part name="slmn_09.bin"/>
+		<part name="slmn_01.bin"/>
+		<part name="slmn_06.bin"/>
+		<part name="slmn_07.bin"/>
+		<part name="slmn_08.bin"/>
+	</rom>
+	<rom index="0" zip="solomon.zip" md5="2e540133603058d3949c9a3403e942c6" type="merged">
+		<part name="2.5lm"/>
+		<part name="3.6lm"/>
+		<part name="4.7lm"/>
+		<part name="5.8lm"/>
+		<part name="solomonj/slmn_12.bin"/>
+		<part name="11.3r"/>
+		<part name="10.3p"/>
+		<part name="9.3m"/>
+		<part name="1.3jk"/>
+		<part name="solomonj/slmn_06.bin"/>
+		<part name="solomonj/slmn_07.bin"/>
+		<part name="solomonj/slmn_08.bin"/>
+	</rom>
+</misterromdescription>
