@@ -8,6 +8,7 @@
 	<category>Adventure</category>
 	<category>Platform</category>
 	<rbf>solomonskey</rbf>
+	<buttons names="Trig1,Trig2,Start 1P,Start 2P,Coin" default="A,B,Start,Select,R"/>
 	<rom index="0" zip="solomon.zip|solomonj.zip" md5="2e540133603058d3949c9a3403e942c6">
 		<part crc="80fa2be3" name="slmn_02.bin"/>
 		<part crc="236106b4" name="slmn_03.bin"/>

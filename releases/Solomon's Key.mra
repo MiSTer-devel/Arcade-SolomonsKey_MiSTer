@@ -8,6 +8,8 @@
 	<category>Adventure</category>
 	<category>Platform</category>
 	<rbf>solomonskey</rbf>
+	<buttons names="Block,Magic,Start 1P,Start 2P,Coin" default="A,B,Start,Select,R"/>
+
 	<rom index="0" zip="solomon.zip" md5="75ac218ad31ae027184c2d0185ea969f">
 		<part crc="80fa2be3" name="2.5lm"/>
 		<part crc="236106b4" name="3.6lm"/>
